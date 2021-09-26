@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Jhankar Mahbub",
+        "age": 32,
+        "gender": "Male",
+        "salary": 120000,
+        "country": "Bangladesh",
+        "bestBook": "Habluder Jonno Programming",
+        "img": "https://qph.fs.quoracdn.net/main-thumb-19233458-200-bOipoRLBNvrrPxLmBkUUCAW4HDDDwDyX.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Humayun Ahmed",
+        "age": 63,
+        "gender": "Male",
+        "salary": 90000,
+        "country": "Bangladesh",
+        "bestBook": "Nondito Noroke",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Humayun_Ahmed_13Nov2010.jpg/220px-Humayun_Ahmed_13Nov2010.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Begum Rokeya",
+        "age": 52,
+        "gender": "Female",
+        "salary": 60000,
+        "country": "Bangladesh",
+        "bestBook": "Matichur",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Begum_Rokeya.jpg/220px-Begum_Rokeya.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Zahir Raihan",
+        "age": 36,
+        "gender": "Male",
+        "salary": 70000,
+        "country": "Bangladesh",
+        "bestBook": "Stop Genocide",
+        "img": "https://images.gr-assets.com/authors/1373266812p5/6467911.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Anisul Hoque",
+        "age": 52,
+        "gender": "Male",
+        "salary": 100000,
+        "country": "Bangladesh",
+        "bestBook": "Maa",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Anisul_Hoque_-_Dhaka_2015-05-30_1676.JPG/220px-Anisul_Hoque_-_Dhaka_2015-05-30_1676.JPG"
+    },
+    {
+        "id": 6,
+        "name": "Kazi Nazrul Islam",
+        "age": 77,
+        "gender": "Male",
+        "salary": 40000,
+        "country": "Bangladesh",
+        "bestBook": "Notuner Gaan",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDE3YjUwYWMtNWY5My00N2MwLWE2ODMtMGFkZDE1ZDJhOTY0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tamim Shahriar Subeen",
+        "age": 36,
+        "gender": "Male",
+        "salary": 120000,
+        "country": "Bangladesh",
+        "bestBook": "Computer Programming",
+        "img": "https://dimikcomputing.com/wp-content/uploads/2016/04/subeen-440x400.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Humayun Azad",
+        "age": 57,
+        "gender": "Male",
+        "salary": 30000,
+        "country": "Bangladesh",
+        "bestBook": "Alokik Stimer",
+        "img": "https://media-eng.dhakatribune.com/uploads/2021/01/humayun-azad-2-690x450-1611494037874.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Jasim Uddin",
+        "age": 57,
+        "gender": "Male",
+        "salary": 10000,
+        "country": "Bangladesh",
+        "bestBook": "Nakshi Kanthar Math",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jasimuddin_Lomax_1951_%282%29.jpg/220px-Jasimuddin_Lomax_1951_%282%29.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ahmed Sofa",
+        "age": 58,
+        "gender": "Male",
+        "salary": 10000,
+        "country": "Bangladesh",
+        "bestBook": "Taranga",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ahmed_Sofa.jpg/220px-Ahmed_Sofa.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Jahanara Imam",
+        "age": 65,
+        "gender": "Male",
+        "salary": 10000,
+        "country": "Bangladesh",
+        "bestBook": "Ekattorer Dinguli",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jahanara_Imam_1960.jpg/220px-Jahanara_Imam_1960.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mohammed Nurul Hoda",
+        "age": 71,
+        "gender": "Male",
+        "salary": 80000,
+        "country": "Bangladesh",
+        "bestBook": "Shonite Somudropath",
+        "img": "https://media-eng.dhakatribune.com/uploads/2021/07/poet-nurul-huda-1626112256245.jpg"
+    }
+]

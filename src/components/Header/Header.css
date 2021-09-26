@@ -1,0 +1,14 @@
+.header{
+    background-color: rgb(23, 165, 170);
+    text-align: center;
+    line-height: 40px;
+    padding: 20px 0;
+}
+
+.header h2{
+    font-size: 2rem;
+}
+
+.header p{
+    font-size: 1.3rem;
+}
