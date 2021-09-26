@@ -9,6 +9,11 @@
     font-size: 2rem;
 }
 
+.header h2 span{
+    color: #4267B2;
+    font-weight: bolder;
+}
+
 .header p{
     font-size: 1.3rem;
 }

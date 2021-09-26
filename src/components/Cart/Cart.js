@@ -24,6 +24,7 @@ const Cart = (props) => {
     );
 };
 
+// component for showing invited person after invite button click
 const Invited = (props) => {
     return (
         <div>
